@@ -138,10 +138,10 @@ const Contact = () => {
                       Oder rufen Sie uns direkt an:
                     </p>
                     <a 
-                      href="tel:015118311067" 
+                      href="tel:01715616628" 
                       className="block text-center text-primary font-semibold mt-2 hover:underline"
                     >
-                      015118311067
+                      01715616628
                     </a>
                   </div>
 
@@ -192,8 +192,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
-                          Färberstraße 54<br />
-                          90402 Nürnberg
+                          Augsburger Str. 10<br />
+                          86157 Augsburg
                         </p>
                       </div>
                     </div>
@@ -205,10 +205,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:015118311067" 
+                          href="tel:01715616628" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          015118311067
+                          01715616628
                         </a>
                       </div>
                     </div>
@@ -235,8 +235,11 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
-                          <li>Mo - Fr: 10:00 - 20:00</li>
-                          <li>Samstag: 10:00 - 19:00</li>
+                          <li>Montag: 9:00 - 12:00</li>
+                          <li>Dienstag: 9:00 - 16:00</li>
+                          <li>Mi - Do: 9:00 - 18:00</li>
+                          <li>Freitag: 9:00 - 19:00</li>
+                          <li>Samstag: 9:00 - 13:00</li>
                           <li>Sonntag: Geschlossen</li>
                         </ul>
                       </div>
@@ -245,7 +248,7 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border mt-8">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.935844488252!2d11.069183276892435!3d49.44792955903806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57a835434d4d%3A0xfba938ebd99d6f67!2sTop%20Salon%20-%20N%C3%BCrnberg!5e0!3m2!1sde!2sde!4v1769779552025!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21206.564432923933!2d10.836233674316397!3d48.36397170000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ea2cade83f627%3A0xc4ebf31a77646937!2s7Z%20Friseure%20Augsburg!5e0!3m2!1sde!2sde!4v1770751032156!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
